@@ -1,6 +1,6 @@
 {
-    "name": "laravel/framework",
-    "description": "The Laravel Framework.",
+    "name": "noodlewitt/framework4.1fix",
+    "description": "The Laravel Framework. With a fix for symlinks",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "authors": [
